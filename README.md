@@ -27,7 +27,7 @@ Today, I work at the intersection of **automation, AI, cloud fundamentals, and 
 ---
 
 
-## 🛠️ What I Do  
+## What I Do  
 ### ⚙️ HR Process Automation
 - Design recruitment automation workflows
 - Automate candidate communications and interview scheduling
@@ -66,7 +66,7 @@ Today, I work at the intersection of **automation, AI, cloud fundamentals, and 
 
 ---
 
-## 🚀 Projects  
+## Projects  
 
 ### 💼 Personal Portfolio  
 Projects, case studies, and documentation of my tech and automation journey.  
@@ -85,7 +85,7 @@ Stack Exchange is the community-powered platform where professionals share real 
 
 ---
 
-## 🧰 Skills & Tools  
+## Skills & Tools  
 
 ### **Programming Languages**  
 HTML • CSS • JavaScript  
@@ -104,7 +104,7 @@ ClickUp (Admin + Expert Certified) • Notion • Google Workspace • Microsoft
 
 ---
 
-## 🎓 Certifications  
+## Certifications  
 
 - Google IT Support Professional Certificate  
 - AWS Cloud Support Associate  
@@ -115,7 +115,7 @@ ClickUp (Admin + Expert Certified) • Notion • Google Workspace • Microsoft
 
 ---
 
-## 📫 Let's Connect  
+## Let's Connect  
 🌐 Portfolio: https://ysabellearaneta.github.io
 🔗 LinkedIn: https://www.linkedin.com/in/ysabellearaneta
 
