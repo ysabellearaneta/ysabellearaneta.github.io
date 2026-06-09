@@ -1,14 +1,20 @@
-# 👋 Hi, I’m Ysabelle Araneta  
+# Hi, I’m Ysabelle 👋   
 
-### 🚀 HR → Tech | Automation, AI, & Digital Transformation  
+### HR + Tech | HR Automation Consultant | Streamlining Recruitment, Onboarding & HR Operations with AI and Automation
 
-I’m an **Automation & AI Workflow Consultant** specializing in designing intelligent systems that reduce manual work and improve operational clarity.
+I'm an **HR Automation Consultant** specializing in designing AI-powered workflows and automation systems that help startups and growing businesses reduce manual work, improve operational consistency, and scale HR operations more effectively.
 
-I build end-to-end automations, AI-powered workflows, and locally hosted or cloud based systems across HR, marketing, operations, and productivity, helping teams save time, reduce errors, and scale with confidence.
+I combine HR operations expertise with workflow automation to streamline recruitment, onboarding, reporting, and employee lifecycle management. Rather than simply connecting tools, I focus on building systems that support how people actually work.
 
 ---
 
-## 👩‍💻 About Me  
+## About Me  
+
+Through my experience in HR operations, recruitment, employee onboarding, reporting, and digital tool adoption, I developed a deep understanding of the operational challenges that growing teams face. Many HR processes are still heavily dependent on spreadsheets, repetitive administrative tasks, and disconnected systems.
+
+This led me to specialize in workflow automation and AI-powered HR systems.
+
+Today, I help organizations redesign and automate HR processes using no-code and low-code technologies, enabling teams to spend less time on manual administration and more time on strategic initiatives that support business growth.
 
 I began my automation journey in **2021**, driven by a curiosity to solve real-world operational bottlenecks. What started as experimentation quickly evolved into a dedicated practice of designing systems that bridge tool gaps, automate complex decision making, and eliminate manual repetitive tasks.
 
@@ -22,25 +28,41 @@ Today, I work at the intersection of **automation, AI, cloud fundamentals, and 
 
 
 ## 🛠️ What I Do  
+### ⚙️ HR Process Automation
+- Design recruitment automation workflows
+- Automate candidate communications and interview scheduling
+- Streamline employee onboarding processes
+- Build HR reporting and dashboard solutions
+- Improve employee lifecycle workflows
+- Reduce repetitive administrative work through automation
 
-### ⚙️ Automation & Systems Engineering  
-- Design and deploy automations using **Zapier, Make, n8n**
-- Integrate **APIs, webhooks, JSON, and conditional logic** to eliminate manual tasks
-- Create cross-platform integrations connecting **ClickUp, Notion, and Google Workspace**  
-- Automate **operational, project management, and HR processes**  
-- Reduce manual workload through logic-based automation  
+### 📈 Workflow Design & Process Optimization
+- Analyze existing HR processes
+- Identify operational bottlenecks
+- Design scalable workflow solutions
+- Standardize and optimize business processes
+- Support HR digital transformation initiatives
 
-### 📊 Work Management & Productivity Systems  
-- Design and optimize **ClickUp and Notion** workspaces  
-- Build task, documentation, and reporting systems  
-- Implement automation for status updates, handoffs, and notifications  
-- Standardize workflows for teams and startups  
+### 🤖 AI-Powered HR Systems
+- Design AI-assisted HR workflows
+- Build HR knowledge management systems
+- Create AI-enabled process automation solutions
+- Improve information access and process consistency
+- Support AI adoption across HR operations
 
-### 🧩 HR-Tech & Digital Transformation  
-- Automate recruitment and employee lifecycle processes  
-- Apply AI-powered tools for recruitment, employee management, and engagement
-- Transform traditional HR processes into automated, data-driven systems
-- Translate business and people needs into scalable systems  
+### ☁️ Cloud-Based Automation
+- Zapier
+- Make
+- Cloud-hosted n8n
+- Google Workspace integrations
+- AI-powered workflow automation
+
+### 🔒 Private & Self-Hosted AI Systems
+- Self-hosted n8n deployment
+- VPS-hosted automation infrastructure
+- Local AI models (LLMs)
+- Private knowledge management systems
+- AI agents and workflow orchestration
 
 ---
 
@@ -95,8 +117,8 @@ ClickUp (Admin + Expert Certified) • Notion • Google Workspace • Microsoft
 
 ## 📫 Let's Connect  
 🌐 Portfolio: https://ysabellearaneta.github.io
-
 🔗 LinkedIn: https://www.linkedin.com/in/ysabellearaneta
+
 ---
 
 ✨ Always learning. Always building. Focused on impact.
