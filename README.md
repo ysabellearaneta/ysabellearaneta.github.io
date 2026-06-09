@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Charlote Araneta  
+# 👋 Hi, I’m Ysabelle Araneta  
 
 ### 🚀 HR → Tech | Automation, AI, & Digital Transformation  
 
@@ -94,10 +94,9 @@ ClickUp (Admin + Expert Certified) • Notion • Google Workspace • Microsoft
 ---
 
 ## 📫 Let's Connect  
-🌐 Portfolio: https://charlotearaneta.github.io
+🌐 Portfolio: https://ysabellearaneta.github.io
 
-🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta
-
+🔗 LinkedIn: https://www.linkedin.com/in/ysabellearaneta
 ---
 
 ✨ Always learning. Always building. Focused on impact.
