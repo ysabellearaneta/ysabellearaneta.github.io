@@ -62,7 +62,7 @@ Today, I combine my HR background with automation, AI, and process optimization 
 ### 💼 Portfolio  
 Projects, case studies, and documentation of my tech and automation journey.  
 
-🔗 https://charlotearaneta.github.io  
+🔗 https://ysabellearaneta.github.io  
 
 ### 🗣️ Ayra Talk 
 Ayra Talk is a free AAC (Augmentative and Alternative Communication) app designed to give a voice to those who need it most.
