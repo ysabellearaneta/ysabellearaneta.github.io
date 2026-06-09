@@ -68,7 +68,7 @@ Today, I work at the intersection of **automation, AI, cloud fundamentals, and 
 
 ## Projects  
 
-### 💼 Personal Portfolio  
+### 💼 Portfolio  
 Projects, case studies, and documentation of my tech and automation journey.  
 
 🔗 https://charlotearaneta.github.io  
@@ -116,7 +116,6 @@ ClickUp (Admin + Expert Certified) • Notion • Google Workspace • Microsoft
 ---
 
 ## Let's Connect  
-🌐 Portfolio: https://ysabellearaneta.github.io
 🔗 LinkedIn: https://www.linkedin.com/in/ysabellearaneta
 
 ---
