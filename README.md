@@ -9,7 +9,7 @@ I combine HR operations expertise with workflow automation to streamline recruit
 ---
 
 ## About Me
-With 5+ years of experience in Human Resources, I've worked across recruitment, onboarding, HR operations, reporting, and process improvement.
+With 7+ years of experience in Human Resources, I've worked across recruitment, onboarding, HR operations, reporting, and process improvement.
 
 Throughout my career, I saw firsthand how much time teams lose to repetitive administrative work, manual reporting, and disconnected processes. That experience sparked my interest in workflow automation and AI-powered systems as a way to improve how HR work gets done.
 
