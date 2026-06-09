@@ -8,21 +8,12 @@ I combine HR operations expertise with workflow automation to streamline recruit
 
 ---
 
-## About Me  
+## About Me
+With 5+ years of experience in Human Resources, I've worked across recruitment, onboarding, HR operations, reporting, and process improvement.
 
-Through my experience in HR operations, recruitment, employee onboarding, reporting, and digital tool adoption, I developed a deep understanding of the operational challenges that growing teams face. Many HR processes are still heavily dependent on spreadsheets, repetitive administrative tasks, and disconnected systems.
+Throughout my career, I saw firsthand how much time teams lose to repetitive administrative work, manual reporting, and disconnected processes. That experience sparked my interest in workflow automation and AI-powered systems as a way to improve how HR work gets done.
 
-This led me to specialize in workflow automation and AI-powered HR systems.
-
-Today, I help organizations redesign and automate HR processes using no-code and low-code technologies, enabling teams to spend less time on manual administration and more time on strategic initiatives that support business growth.
-
-I began my automation journey in **2021**, driven by a curiosity to solve real-world operational bottlenecks. What started as experimentation quickly evolved into a dedicated practice of designing systems that bridge tool gaps, automate complex decision making, and eliminate manual repetitive tasks.
-
-While my professional background is in **Human Resources** which gives me a unique perspective on how people interact with systems as my expertise extends across the entire organizational map. Over the years, I have built and optimized workflows for **operations, project management, marketing, content lifecycles, and AI-integrated processes**. I don't just automate tasks; I architect systems that scale.
-
-I consider myself a **generalist by design** comfortable working across domains, tools, and problem spaces. I focus on understanding how systems interact, then building practical automations that are maintainable, scalable, and human-centered.
-
-Today, I work at the intersection of **automation, AI, cloud fundamentals, and digital transformation**, translating real world needs into functional systems.
+Today, I combine my HR background with automation, AI, and process optimization to design practical systems that help teams work more efficiently and scale with confidence.
 
 ---
 
